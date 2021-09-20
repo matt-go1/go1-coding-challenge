@@ -2,7 +2,7 @@ How To Add A New Code Challenge
 ===============================
 
 To add a code challenge please follow these steps:
-1. Verify your question meets our standards, and they you have tested the question with a peer.
+1. Verify your question meets our standards, and that you have tested the question with a peer.
 1. Create a new directory with a ```challenge-name``` that is indicative of the data used in the challenge.
 1. Create ```challenge-name.md```. Add your challenge using the template included below. 
 1. Create 3-5 json data samples for the problem space and put them in ```challenge-name.data.md```. Small descriptions of the data are allowed, but keep it minimal.
